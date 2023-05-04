@@ -1,2 +1,2 @@
-# WPM_Typing_Test
-A typing speed test in python!
+# Typing_Test
+A Python based WPM Typing Speed Test.
